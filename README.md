@@ -122,7 +122,7 @@ pip install esphome
 ```
 
 ```bash
-cd projetos/medidor-energia/esphome
+cd esphome
 ```
 
 ```bash
